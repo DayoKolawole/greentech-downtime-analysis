@@ -1,6 +1,7 @@
 # Evaluating Production Bottlenecks Through Downtime Analysis
 
 **Tools:** SQL Server · Power BI (DAX) · PowerPoint
+
 **Period analyzed:** 1 March to 31 August 2025
 
 ## Problem
